@@ -58,7 +58,7 @@ int main(){
 		
 	}
 	else{
-		printf("phle game sikh le\n");
+		printf("learn the game\n");
 	}
 	
 	}
